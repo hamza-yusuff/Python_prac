@@ -1,0 +1,173 @@
+Table,Breakdown,Secondary_Breakdown,Year,Value,Unit
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2012,1193,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2014,1246,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2016,1602,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2018,2150,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,1) Business,2019,2407,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2012,596,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2014,622,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2016,658,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2018,784,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,2) Government,2019,.,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2012,836,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2014,817,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2016,877,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2018,960,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,3) Higher Education,2019,.,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2012,2625,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2014,2685,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2016,3136,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2018,3894,$(million)
+01 Total R&D Expenditure,01_R&D Expenditure,4) Total all sectors,2019,...,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2012,0.56,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2014,0.54,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2016,0.63,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2018,0.74,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,1) Business,2019,0.8,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2012,0.28,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2014,0.27,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2016,0.26,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2018,0.27,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,2) Government,2019,.,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2012,0.39,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2014,0.35,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2016,0.34,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2018,0.33,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,3) Higher Education,2019,.,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2012,1.23,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2014,1.15,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2016,1.23,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2018,1.35,$(million)
+01 Total R&D Expenditure,02_R&D Exp as a proportion of GDP,4) Total all sectors,2019,.,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2012,125,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2014,92,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2016,96,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2018,100,$(million)
+02 Total R&D Expenditure by published industry,01_Primary,None,2019,98,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2012,536,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2014,522,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2016,671,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2018,680,$(million)
+02 Total R&D Expenditure by published industry,03_Manufacturing,None,2019,763,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2012,109,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2014,81,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2016,110,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2018,73,$(million)
+02 Total R&D Expenditure by published industry,04_Food_Manufacturing,None,2019,78,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2012,5,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2014,8,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2016,7,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2018,9,$(million)
+02 Total R&D Expenditure by published industry,05_Beverage and tobacco manufacturing,None,2019,10,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2012,7,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2014,11,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2016,6,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2018,9,$(million)
+02 Total R&D Expenditure by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2019,11,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2012,72,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2014,93,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2016,76,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2018,119,$(million)
+02 Total R&D Expenditure by published industry,"07_Petroleum, coal, chemical, and associated product",None,2019,100,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2012,4,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2014,2,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2016,3,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2018,3,$(million)
+02 Total R&D Expenditure by published industry,08_Non-metallic mineral product manufacturing,None,2019,3,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2012,31,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2014,28,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2016,67,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2018,73,$(million)
+02 Total R&D Expenditure by published industry,09_Metal product manufacturing,None,2019,82,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2012,295,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2014,287,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2016,392,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2018,378,$(million)
+02 Total R&D Expenditure by published industry,10_Machinery and equipment manufacturing,None,2019,450,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2012,14,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2014,11,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2016,10,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2018,16,$(million)
+02 Total R&D Expenditure by published industry,11_Other manufacturing,None,2019,28,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2012,532,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2014,632,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2016,835,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2018,1369,$(million)
+02 Total R&D Expenditure by published industry,13_Services,None,2019,1546,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2012,89,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2014,96,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2016,111,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2018,235,$(million)
+02 Total R&D Expenditure by published industry,14_Wholesale trade,None,2019,180,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2012,51,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2014,57,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2016,75,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2018,118,$(million)
+02 Total R&D Expenditure by published industry,15_Scientific research and technical services,None,2019,102,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2012,221,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2014,311,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2016,436,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2018,586,$(million)
+02 Total R&D Expenditure by published industry,16_Computer services,None,2019,748,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2012,171,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2014,168,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2016,212,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2018,430,$(million)
+02 Total R&D Expenditure by published industry,17_Other services,None,2019,517,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2012,1193,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2014,1246,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2016,1602,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2018,2150,$(million)
+02 Total R&D Expenditure by published industry,19_Total business sector,None,2019,2407,$(million)
+03 Businesses performing R&D by published industry,01_Primary,None,2012,96,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2014,72,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2016,72,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2018,81,Count
+03 Businesses performing R&D by published industry,01_Primary,None,2019,87,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2012,708,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2014,702,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2016,624,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2018,684,Count
+03 Businesses performing R&D by published industry,03_Manufacturing,None,2019,735,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2012,108,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2014,102,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2016,90,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2018,114,Count
+03 Businesses performing R&D by published industry,04_Food_Manufacturing,None,2019,141,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2012,12,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2014,15,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2016,15,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2018,15,Count
+03 Businesses performing R&D by published industry,05_Beverage and tobacco manufacturing,None,2019,21,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2012,33,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2014,36,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2016,30,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2018,33,Count
+03 Businesses performing R&D by published industry,"06_Textiles, clothing, footwear, and leather manufacturing",None,2019,36,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2012,147,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2014,153,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2016,126,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2018,132,Count
+03 Businesses performing R&D by published industry,"07_Petroleum, coal, chemical, and associated product",None,2019,141,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2012,18,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2014,21,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2016,15,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2018,12,Count
+03 Businesses performing R&D by published industry,08_Non-metallic mineral product manufacturing,None,2019,12,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2012,63,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2014,72,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2016,72,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2018,69,Count
+03 Businesses performing R&D by published industry,09_Metal product manufacturing,None,2019,69,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2012,264,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2014,237,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2016,225,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2018,240,Count
+03 Businesses performing R&D by published industry,10_Machinery and equipment manufacturing,None,2019,252,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2012,66,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2014,69,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2016,54,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2018,69,Count
+03 Businesses performing R&D by published industry,11_Other manufacturing,None,2019,63,Count
+03 Businesses performing R&D by published industry,13_Services,None,2012,990,Count
+
